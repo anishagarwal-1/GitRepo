@@ -2,7 +2,7 @@ class  void{
 void main{
 system.out.print()
 }
-//
+//comment
 void main{
 system.out.print()
 }
